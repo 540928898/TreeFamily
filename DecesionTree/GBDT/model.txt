@@ -1,0 +1,10 @@
+Tree1 is :<DTregress.Decisionnode instance at 0x0000000012F5FCC8>
+Tree2 is :<DTregress.Decisionnode instance at 0x0000000012C89788>
+Tree3 is :<DTregress.Decisionnode instance at 0x00000000132C54C8>
+Tree4 is :<DTregress.Decisionnode instance at 0x00000000132DC208>
+Tree5 is :<DTregress.Decisionnode instance at 0x00000000132F3148>
+Tree6 is :<DTregress.Decisionnode instance at 0x000000001318B108>
+Tree7 is :<DTregress.Decisionnode instance at 0x00000000131A2348>
+Tree8 is :<DTregress.Decisionnode instance at 0x00000000131B9288>
+Tree9 is :<DTregress.Decisionnode instance at 0x00000000134794C8>
+Tree10 is :<DTregress.Decisionnode instance at 0x000000001348F388>
