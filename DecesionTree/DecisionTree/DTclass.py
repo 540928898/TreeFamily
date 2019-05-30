@@ -350,7 +350,7 @@ def prune(tree,mingain,scoref=giniimpurity):
       fb+=[[v]]*c
     
     # Test the reduction in entropy
-    delta=giniimpurity(tb+fb)-(giniimpurity(tb)+giniimpurity(fb)/2)
+    delta=scoref(tb+fb)-(scoref(tb)+scoref(fb)/2)
     if delta<mingain:
       # Merge the branches
       tree.tb,tree.fb=None,None
